@@ -16,4 +16,3 @@ Some of the projects included are:
 Explore these projects to gain insights into networking configurations and practices using Cisco Packet Tracer.
 
 ---
-© 2024 GitHub, Inc.
