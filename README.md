@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Here are all my Cisco Packet Tracer projects
-=======
+
 # Cisco-Packet-Tracer-School
 
 This repository contains all my Cisco Packet Tracer projects.
@@ -18,5 +18,3 @@ Some of the projects included are:
 
 Explore these projects to gain insights into networking configurations and practices using Cisco Packet Tracer.
 
----
->>>>>>> 82b953868d1089e861d8bf3419fb2eaad689ab12
